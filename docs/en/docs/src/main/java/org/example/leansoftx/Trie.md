@@ -50,13 +50,13 @@
 
 | Name  | Type  | Description |
 |-------|-------|------|
-| getAllWords | List<String> |  |
 | autoSuggest | List<String> |  |
+| printTrieStructure | void |  |
+| getAllWords | List<String> |  |
 | getSpellingSuggestions | List<String> |  |
 | _printTrieNodes | void |  |
-| printTrieStructure | void |  |
-| insert | boolean |  |
 | getAllWordsWithPrefix | List<String> |  |
+| insert | boolean |  |
 | levenshteinDistance | int |  |
 
 

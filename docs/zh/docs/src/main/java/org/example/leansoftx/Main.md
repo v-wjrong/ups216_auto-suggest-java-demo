@@ -51,14 +51,14 @@
 
 | 名称  | 类型  | 说明 |
 |-------|-------|------|
-| printTrie | void |  |
-| deleteWord | void |  |
-| getPrefixInput | void |  |
-| getSpellingSuggestions | void |  |
-| main | void |  |
-| initializeTrie | Trie |  |
-| searchWord | void |  |
 | prefixAutoComplete | void |  |
+| searchWord | void |  |
+| initializeTrie | Trie |  |
+| deleteWord | void |  |
+| main | void |  |
+| getSpellingSuggestions | void |  |
+| getPrefixInput | void |  |
+| printTrie | void |  |
 
 
 
