@@ -44,8 +44,8 @@
 
 | Name  | Type  | Description |
 |-------|-------|------|
-| isEndOfWord | boolean |  |
 | children | Map<Character, TrieNode> |  |
+| isEndOfWord | boolean |  |
 | value = ' ' | char |  |
 
 ### Method List

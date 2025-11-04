@@ -44,8 +44,8 @@
 
 | 名称  | 类型  | 说明 |
 |-------|-------|------|
-| isEndOfWord | boolean |  |
 | children | Map<Character, TrieNode> |  |
+| isEndOfWord | boolean |  |
 | value = ' ' | char |  |
 
 ### 方法列表
