@@ -5,12 +5,12 @@
 | 名称 | auto-suggest-java-demo |
 | 编码语言 | .java |
 | 代码路径 | auto-suggest-java-demo |
-| 概述说明 | 该模块实现基于字典树的智能词典系统，支持词汇存储、前缀补全和拼写建议。核心功能包括Trie操作和扩展功能如自动补全，依赖Java环境。适用于交互式词典管理，提供实时匹配和纠错建议。 |
+| 概述说明 |  |
 
 # 模块列表
 
 | 名称   | 类型  | 说明 |
 |-------|------|-------------|
-| [_module.md](src/main/java/org/_module.md) | folder | 字典树实现包含插入、搜索、前缀补全、删除和拼写建议功能。TrieNode类管理字符、子节点和单词结束标记。主程序提供交互式命令行界面支持多种操作模式，包括Tab键补全和编辑距离建议。 |
+| [_module.md](src/main/java/org/_module.md) | folder |  |
 
 
