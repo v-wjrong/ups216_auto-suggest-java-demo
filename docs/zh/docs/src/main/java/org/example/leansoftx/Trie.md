@@ -50,13 +50,13 @@
 
 | 名称  | 类型  | 说明 |
 |-------|-------|------|
-| printTrieStructure | void |  |
 | getAllWords | List<String> |  |
+| autoSuggest | List<String> |  |
 | getSpellingSuggestions | List<String> |  |
+| _printTrieNodes | void |  |
+| printTrieStructure | void |  |
 | insert | boolean |  |
 | getAllWordsWithPrefix | List<String> |  |
-| autoSuggest | List<String> |  |
-| _printTrieNodes | void |  |
 | levenshteinDistance | int |  |
 
 

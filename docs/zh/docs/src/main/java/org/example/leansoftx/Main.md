@@ -52,10 +52,10 @@
 | 名称  | 类型  | 说明 |
 |-------|-------|------|
 | printTrie | void |  |
-| main | void |  |
+| deleteWord | void |  |
 | getPrefixInput | void |  |
 | getSpellingSuggestions | void |  |
-| deleteWord | void |  |
+| main | void |  |
 | initializeTrie | Trie |  |
 | searchWord | void |  |
 | prefixAutoComplete | void |  |
