@@ -44,20 +44,20 @@
 
 | 名称  | 类型  | 说明 |
 |-------|-------|------|
-| words = {            "as", "astronaut", "asteroid", "are", "around",            "cat", "cars", "cares", "careful", "carefully",            "for", "follows", "forgot", "from", "front",            "mellow", "mean", "money", "monday", "monster",            "place", "plan", "planet", "planets", "plans",            "the", "their", "they", "there", "towards"    } | String[] |  |
 | dictionary = initializeTrie(words) | Trie |  |
+| words = {            "as", "astronaut", "asteroid", "are", "around",            "cat", "cars", "cares", "careful", "carefully",            "for", "follows", "forgot", "from", "front",            "mellow", "mean", "money", "monday", "monster",            "place", "plan", "planet", "planets", "plans",            "the", "their", "they", "there", "towards"    } | String[] |  |
 
 ### 方法列表
 
 | 名称  | 类型  | 说明 |
 |-------|-------|------|
-| main | void |  |
-| getSpellingSuggestions | void |  |
 | deleteWord | void |  |
-| getPrefixInput | void |  |
-| initializeTrie | Trie |  |
 | searchWord | void |  |
+| initializeTrie | Trie |  |
+| main | void |  |
 | prefixAutoComplete | void |  |
+| getSpellingSuggestions | void |  |
+| getPrefixInput | void |  |
 | printTrie | void |  |
 
 
